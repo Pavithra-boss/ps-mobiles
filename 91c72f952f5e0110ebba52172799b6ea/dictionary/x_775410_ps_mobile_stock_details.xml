@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="stock details" max_length="40" name="x_775410_ps_mobile_stock_details" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="brand name" max_length="40" name="brand_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="device name" max_length="40" name="device_name" type="choice">
+            <choice/>
+        </element>
+        <element label="no of items" max_length="40" name="no_of_items" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
