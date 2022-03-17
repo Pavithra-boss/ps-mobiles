@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="phone_number" label="phone number" language="en" table="x_775410_ps_mobile_employee_details">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>phone_number</element>
+            <help/>
+            <hint/>
+            <label>phone number</label>
+            <language>en</language>
+            <name>x_775410_ps_mobile_employee_details</name>
+            <plural>phone numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-17 06:13:15</sys_created_on>
+            <sys_id>86a8a3192f124110ebba52172799b6cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>phone number</sys_name>
+            <sys_package display_value="ps mobiles" source="x_775410_ps_mobile">91c72f952f5e0110ebba52172799b6ea</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ps mobiles">91c72f952f5e0110ebba52172799b6ea</sys_scope>
+            <sys_update_name>sys_documentation_x_775410_ps_mobile_employee_details_phone_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-17 06:13:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

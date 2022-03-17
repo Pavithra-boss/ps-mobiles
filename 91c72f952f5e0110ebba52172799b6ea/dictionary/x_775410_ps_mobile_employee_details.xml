@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="employee details" max_length="40" name="x_775410_ps_mobile_employee_details" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="60" name="address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="employee name" max_length="40" name="employee_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="phone number" max_length="40" name="phone_number" type="phone_number_e164"/>
+    </element>
+</database>
